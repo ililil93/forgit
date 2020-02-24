@@ -15,6 +15,7 @@
 var btn =document.getElementById('btnLogin');
 	btn.onclick = function () {
 	alert("도랏맨!");
+	//하이루 이건 브랜치용
 	}	
 	
 </script>
