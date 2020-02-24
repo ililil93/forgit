@@ -14,7 +14,7 @@
 <script>
 var btn =document.getElementById('btnLogin');
 	btn.onclick = function () {
-	alert("아 너무너무 배고프다..");
+	alert("도랏맨!");
 	}	
 	
 </script>
